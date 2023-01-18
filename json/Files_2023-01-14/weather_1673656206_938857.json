@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 64.1236,
+        "lat": 42.4307
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 263.43,
+        "feels_like": 256.7,
+        "temp_min": 263.43,
+        "temp_max": 263.43,
+        "pressure": 1048,
+        "humidity": 50,
+        "sea_level": 1048,
+        "grnd_level": 1010
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.25,
+        "deg": 53,
+        "gust": 6.72
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1673656216,
+    "sys": {
+        "country": "UZ",
+        "sunrise": 1673665853,
+        "sunset": 1673699602
+    },
+    "timezone": 18000,
+    "id": 1484841,
+    "name": "Navoiy Province",
+    "cod": 200
+}

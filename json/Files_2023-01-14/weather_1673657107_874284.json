@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 35.8966,
+        "lat": 31.8178
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 274.73,
+        "feels_like": 274.73,
+        "temp_min": 274.73,
+        "temp_max": 279.02,
+        "pressure": 1018,
+        "humidity": 87
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 0,
+        "deg": 0
+    },
+    "clouds": {
+        "all": 3
+    },
+    "dt": 1673657108,
+    "sys": {
+        "type": 1,
+        "id": 7523,
+        "country": "JO",
+        "sunrise": 1673671018,
+        "sunset": 1673707990
+    },
+    "timezone": 7200,
+    "id": 248843,
+    "name": "J\u0101w\u0101",
+    "cod": 200
+}

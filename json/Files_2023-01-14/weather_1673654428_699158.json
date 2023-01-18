@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": 29.3195,
+        "lat": 35.3454
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 287.84,
+        "feels_like": 287.17,
+        "temp_min": 287.84,
+        "temp_max": 287.84,
+        "pressure": 1015,
+        "humidity": 69,
+        "sea_level": 1015,
+        "grnd_level": 1015
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.01,
+        "deg": 55,
+        "gust": 4.88
+    },
+    "rain": {
+        "1h": 0.87
+    },
+    "clouds": {
+        "all": 91
+    },
+    "dt": 1673654428,
+    "sys": {
+        "country": "GR",
+        "sunrise": 1673673077,
+        "sunset": 1673709088
+    },
+    "timezone": 7200,
+    "id": 8133700,
+    "name": "Kastelorizo",
+    "cod": 200
+}

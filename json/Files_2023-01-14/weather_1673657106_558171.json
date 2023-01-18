@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 66.5596,
+        "lat": 42.9526
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 264.59,
+        "feels_like": 264.59,
+        "temp_min": 264.59,
+        "temp_max": 264.59,
+        "pressure": 1048,
+        "humidity": 53,
+        "sea_level": 1048,
+        "grnd_level": 1023
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.98,
+        "deg": 359,
+        "gust": 1.19
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1673657106,
+    "sys": {
+        "country": "KZ",
+        "sunrise": 1673665363,
+        "sunset": 1673698923
+    },
+    "timezone": 18000,
+    "id": 1524787,
+    "name": "South Kazakhstan Region",
+    "cod": 200
+}
