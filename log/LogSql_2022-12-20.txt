@@ -1,0 +1,17 @@
+2022-12-20 06:42:11 - DEMMARAGE DE L'INITIALISATION DE LA BASE DE DONNEES
+2022-12-20 06:42:11 - Création des tables
+2022-12-20 06:42:11 - Insert countries
+Nombre de lignes insérées: 252
+2022-12-20 06:42:11 - Insert cities
+Nombre de lignes insérées: 9368
+2022-12-20 06:42:14 - Insert airlines
+Nombre de lignes insérées: 1572
+2022-12-20 06:42:14 - Insert aircraft
+Nombre de lignes insérées: 310
+2022-12-20 06:42:14 - Insert airplanes
+Nombre de lignes insérées: 19078
+2022-12-20 06:42:20 - Insert airports
+Nombre de lignes insérées: 6477
+2022-12-20 06:42:21 - Création des clés étrangères
+2022-12-20 06:42:21 - FIN DE L'INITIALISATION DE LA BASE DE DONNEES
+

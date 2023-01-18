@@ -1,0 +1,962 @@
+2022-11-24 00:00:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 00:00:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 515
+2022-11-24 00:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 41
+Nombre de documents ignorés: 4
+2022-11-24 00:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 40
+2022-11-24 00:01:31 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 00:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 00:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 650
+2022-11-24 00:15:03 - Process AirLabs - Flights
+Nombre de documents insérés: 37
+Nombre de documents ignorés: 5
+2022-11-24 00:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 37
+2022-11-24 00:16:09 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 00:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 00:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 645
+2022-11-24 00:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 37
+Nombre de documents ignorés: 4
+2022-11-24 00:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 37
+2022-11-24 00:31:11 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 00:45:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 00:45:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 641
+2022-11-24 00:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 37
+Nombre de documents ignorés: 4
+2022-11-24 00:45:02 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 35
+2022-11-24 00:46:05 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 01:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 01:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 641
+2022-11-24 01:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 37
+Nombre de documents ignorés: 5
+2022-11-24 01:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 34
+2022-11-24 01:01:18 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 01:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 01:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 753
+2022-11-24 01:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 35
+Nombre de documents ignorés: 5
+2022-11-24 01:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 34
+2022-11-24 01:15:47 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 01:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 01:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 753
+2022-11-24 01:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 32
+Nombre de documents ignorés: 5
+2022-11-24 01:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 32
+2022-11-24 01:30:59 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 01:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 01:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 753
+2022-11-24 01:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 30
+Nombre de documents ignorés: 5
+2022-11-24 01:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 27
+2022-11-24 01:45:37 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 02:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 02:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 753
+2022-11-24 02:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 29
+Nombre de documents ignorés: 5
+2022-11-24 02:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 26
+2022-11-24 02:01:14 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 02:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 02:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 904
+2022-11-24 02:15:03 - Process AirLabs - Flights
+Nombre de documents insérés: 27
+Nombre de documents ignorés: 3
+2022-11-24 02:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 26
+2022-11-24 02:15:38 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 02:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 02:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 904
+2022-11-24 02:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 27
+Nombre de documents ignorés: 3
+2022-11-24 02:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 27
+2022-11-24 02:30:47 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 02:45:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 02:45:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 904
+2022-11-24 02:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 25
+Nombre de documents ignorés: 7
+2022-11-24 02:45:02 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 24
+2022-11-24 02:45:32 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 03:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 03:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 904
+2022-11-24 03:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 22
+Nombre de documents ignorés: 11
+2022-11-24 03:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 21
+2022-11-24 03:01:01 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 03:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 03:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1043
+2022-11-24 03:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 20
+Nombre de documents ignorés: 15
+2022-11-24 03:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 20
+2022-11-24 03:15:31 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 03:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 03:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1043
+2022-11-24 03:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 18
+Nombre de documents ignorés: 24
+2022-11-24 03:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 17
+2022-11-24 03:30:42 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 03:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 03:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1043
+2022-11-24 03:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 18
+Nombre de documents ignorés: 33
+2022-11-24 03:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 17
+2022-11-24 03:45:25 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 04:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 04:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1043
+2022-11-24 04:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 18
+Nombre de documents ignorés: 35
+2022-11-24 04:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 17
+2022-11-24 04:00:36 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 04:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 04:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1137
+2022-11-24 04:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 18
+Nombre de documents ignorés: 35
+2022-11-24 04:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 18
+2022-11-24 04:15:33 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 04:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 04:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1137
+2022-11-24 04:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 16
+Nombre de documents ignorés: 34
+2022-11-24 04:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 15
+2022-11-24 04:30:29 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 04:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 04:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1137
+2022-11-24 04:45:03 - Process AirLabs - Flights
+Nombre de documents insérés: 15
+Nombre de documents ignorés: 31
+2022-11-24 04:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 14
+2022-11-24 04:45:28 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 05:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 05:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1137
+2022-11-24 05:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 13
+Nombre de documents ignorés: 25
+2022-11-24 05:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 12
+2022-11-24 05:00:30 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 05:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 05:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1255
+2022-11-24 05:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 13
+Nombre de documents ignorés: 21
+2022-11-24 05:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 13
+2022-11-24 05:15:25 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 05:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 05:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1255
+2022-11-24 05:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 14
+Nombre de documents ignorés: 22
+2022-11-24 05:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 14
+2022-11-24 05:30:27 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 05:45:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 05:45:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1256
+2022-11-24 05:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 14
+Nombre de documents ignorés: 15
+2022-11-24 05:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 14
+2022-11-24 05:45:26 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 06:00:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 06:00:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1256
+2022-11-24 06:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 15
+Nombre de documents ignorés: 15
+2022-11-24 06:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 15
+2022-11-24 06:00:34 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 06:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 06:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1354
+2022-11-24 06:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 18
+Nombre de documents ignorés: 13
+2022-11-24 06:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 17
+2022-11-24 06:15:30 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 06:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 06:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1354
+2022-11-24 06:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 25
+Nombre de documents ignorés: 11
+2022-11-24 06:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 25
+2022-11-24 06:31:30 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 06:45:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 06:45:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1354
+2022-11-24 06:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 29
+Nombre de documents ignorés: 10
+2022-11-24 06:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 29
+2022-11-24 06:45:39 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 07:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 07:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1354
+2022-11-24 07:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 32
+Nombre de documents ignorés: 10
+2022-11-24 07:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 32
+2022-11-24 07:01:48 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 07:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 07:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1415
+2022-11-24 07:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 33
+Nombre de documents ignorés: 9
+2022-11-24 07:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 33
+2022-11-24 07:15:59 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 07:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 07:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1414
+2022-11-24 07:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 33
+Nombre de documents ignorés: 9
+2022-11-24 07:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 33
+2022-11-24 07:30:59 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 07:45:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 07:45:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1413
+2022-11-24 07:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 28
+Nombre de documents ignorés: 10
+2022-11-24 07:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 28
+2022-11-24 07:45:50 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 08:00:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 08:00:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1408
+2022-11-24 08:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 29
+Nombre de documents ignorés: 9
+2022-11-24 08:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 29
+2022-11-24 08:01:40 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 08:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 08:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1472
+2022-11-24 08:15:03 - Process AirLabs - Flights
+Nombre de documents insérés: 27
+Nombre de documents ignorés: 10
+2022-11-24 08:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 27
+2022-11-24 08:15:39 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 08:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 08:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1436
+2022-11-24 08:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 32
+Nombre de documents ignorés: 12
+2022-11-24 08:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 31
+2022-11-24 08:30:57 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 08:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 08:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1414
+2022-11-24 08:45:03 - Process AirLabs - Flights
+Nombre de documents insérés: 34
+Nombre de documents ignorés: 11
+2022-11-24 08:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 34
+2022-11-24 08:45:47 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 09:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 09:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1401
+2022-11-24 09:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 45
+Nombre de documents ignorés: 9
+2022-11-24 09:00:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 45
+2022-11-24 09:02:07 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 09:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 09:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1426
+2022-11-24 09:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 56
+Nombre de documents ignorés: 11
+2022-11-24 09:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 56
+2022-11-24 09:16:39 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 09:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 09:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1413
+2022-11-24 09:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 58
+Nombre de documents ignorés: 12
+2022-11-24 09:30:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 58
+2022-11-24 09:31:43 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 09:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 09:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1388
+2022-11-24 09:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 63
+Nombre de documents ignorés: 7
+2022-11-24 09:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 63
+2022-11-24 09:46:25 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 10:00:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 10:00:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1370
+2022-11-24 10:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 68
+Nombre de documents ignorés: 6
+2022-11-24 10:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 68
+2022-11-24 10:02:27 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 10:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 10:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1502
+2022-11-24 10:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 68
+Nombre de documents ignorés: 7
+2022-11-24 10:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 67
+2022-11-24 10:16:31 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 10:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 10:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1421
+2022-11-24 10:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 64
+Nombre de documents ignorés: 9
+2022-11-24 10:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 63
+2022-11-24 10:31:42 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 10:45:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 10:45:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1331
+2022-11-24 10:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 63
+Nombre de documents ignorés: 9
+2022-11-24 10:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 63
+2022-11-24 10:46:24 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 11:00:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 11:00:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1253
+2022-11-24 11:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 69
+Nombre de documents ignorés: 9
+2022-11-24 11:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 69
+2022-11-24 11:02:18 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 11:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 11:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1320
+2022-11-24 11:15:03 - Process AirLabs - Flights
+Nombre de documents insérés: 70
+Nombre de documents ignorés: 6
+2022-11-24 11:15:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 69
+2022-11-24 11:16:34 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 11:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 11:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1307
+2022-11-24 11:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 73
+Nombre de documents ignorés: 7
+2022-11-24 11:30:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 73
+2022-11-24 11:31:52 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 11:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 11:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1261
+2022-11-24 11:45:03 - Process AirLabs - Flights
+Nombre de documents insérés: 76
+Nombre de documents ignorés: 8
+2022-11-24 11:45:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 76
+2022-11-24 11:46:43 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 12:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 12:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1239
+2022-11-24 12:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 81
+Nombre de documents ignorés: 10
+2022-11-24 12:00:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 78
+2022-11-24 12:03:14 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 12:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 12:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1231
+2022-11-24 12:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 88
+Nombre de documents ignorés: 8
+2022-11-24 12:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 87
+2022-11-24 12:16:56 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 12:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 12:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1209
+2022-11-24 12:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 94
+Nombre de documents ignorés: 8
+2022-11-24 12:30:04 - Process OpenWeatherMap - weather
+2022-11-24 12:30:56 - ERREUR D'EXECUTION: Erreur get weather:
+502 Bad Gateway
+2022-11-24 12:30:56 - FIN ANORMALE DE LA COLLECTE DE DONNEES
+
+2022-11-24 12:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 12:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1173
+2022-11-24 12:45:03 - Process AirLabs - Flights
+Nombre de documents insérés: 96
+Nombre de documents ignorés: 7
+2022-11-24 12:45:04 - Process OpenWeatherMap - weather
+2022-11-24 12:45:47 - ERREUR D'EXECUTION: HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?lat=53.459751&lon=-6.934312&appid=a1f14a3c066d12e5e51a3ae5c832c6c5 (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:997)')))
+2022-11-24 12:45:47 - FIN ANORMALE DE LA COLLECTE DE DONNEES
+
+2022-11-24 13:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 13:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1142
+2022-11-24 13:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 102
+Nombre de documents ignorés: 7
+2022-11-24 13:00:05 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 102
+2022-11-24 13:03:16 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 13:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 13:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1132
+2022-11-24 13:15:03 - Process AirLabs - Flights
+Nombre de documents insérés: 102
+Nombre de documents ignorés: 7
+2022-11-24 13:15:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 100
+2022-11-24 13:17:53 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 13:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 13:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1106
+2022-11-24 13:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 102
+Nombre de documents ignorés: 9
+2022-11-24 13:30:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 101
+2022-11-24 13:33:02 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 13:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 13:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 1066
+2022-11-24 13:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 105
+Nombre de documents ignorés: 7
+2022-11-24 13:45:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 104
+2022-11-24 13:48:01 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 14:00:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 14:00:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 1032
+2022-11-24 14:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 109
+Nombre de documents ignorés: 8
+2022-11-24 14:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 108
+2022-11-24 14:03:21 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 14:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 14:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 971
+2022-11-24 14:15:03 - Process AirLabs - Flights
+Nombre de documents insérés: 107
+Nombre de documents ignorés: 8
+2022-11-24 14:15:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 106
+2022-11-24 14:17:26 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 14:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 14:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 952
+2022-11-24 14:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 110
+Nombre de documents ignorés: 7
+2022-11-24 14:30:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 108
+2022-11-24 14:32:42 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 14:45:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 14:45:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 903
+2022-11-24 14:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 114
+Nombre de documents ignorés: 7
+2022-11-24 14:45:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 110
+2022-11-24 14:47:25 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 15:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 15:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 865
+2022-11-24 15:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 113
+Nombre de documents ignorés: 9
+2022-11-24 15:00:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 113
+2022-11-24 15:03:39 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 15:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 15:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 834
+2022-11-24 15:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 119
+Nombre de documents ignorés: 7
+2022-11-24 15:15:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 116
+2022-11-24 15:17:34 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 15:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 15:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 816
+2022-11-24 15:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 114
+Nombre de documents ignorés: 8
+2022-11-24 15:30:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 114
+2022-11-24 15:33:01 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 15:45:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 15:45:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 795
+2022-11-24 15:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 112
+Nombre de documents ignorés: 7
+2022-11-24 15:45:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 107
+2022-11-24 15:48:08 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 16:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 16:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 764
+2022-11-24 16:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 114
+Nombre de documents ignorés: 7
+2022-11-24 16:00:05 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 113
+2022-11-24 16:03:34 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 16:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 16:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 739
+2022-11-24 16:15:03 - Process AirLabs - Flights
+Nombre de documents insérés: 113
+Nombre de documents ignorés: 8
+2022-11-24 16:15:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 112
+2022-11-24 16:18:18 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 16:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 16:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 725
+2022-11-24 16:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 102
+Nombre de documents ignorés: 7
+2022-11-24 16:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 99
+2022-11-24 16:32:59 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 16:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 16:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 672
+2022-11-24 16:45:03 - Process AirLabs - Flights
+Nombre de documents insérés: 93
+Nombre de documents ignorés: 5
+2022-11-24 16:45:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 91
+2022-11-24 16:47:35 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 17:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 17:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 665
+2022-11-24 17:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 94
+Nombre de documents ignorés: 3
+2022-11-24 17:00:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 90
+2022-11-24 17:02:54 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 17:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 17:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 626
+2022-11-24 17:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 90
+Nombre de documents ignorés: 6
+2022-11-24 17:15:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 88
+2022-11-24 17:17:00 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 17:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 17:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 587
+2022-11-24 17:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 96
+Nombre de documents ignorés: 5
+2022-11-24 17:30:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 94
+2022-11-24 17:32:50 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 17:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 17:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 541
+2022-11-24 17:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 99
+Nombre de documents ignorés: 5
+2022-11-24 17:45:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 98
+2022-11-24 17:47:54 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 18:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 18:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 528
+2022-11-24 18:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 99
+Nombre de documents ignorés: 5
+2022-11-24 18:00:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 99
+2022-11-24 18:03:14 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 18:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 18:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 509
+2022-11-24 18:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 96
+Nombre de documents ignorés: 6
+2022-11-24 18:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 94
+2022-11-24 18:17:53 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 18:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 18:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 509
+2022-11-24 18:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 91
+Nombre de documents ignorés: 7
+2022-11-24 18:30:04 - Process OpenWeatherMap - weather
+2022-11-24 18:31:08 - ERREUR D'EXECUTION: Erreur get weather:
+502 Bad Gateway
+2022-11-24 18:31:08 - FIN ANORMALE DE LA COLLECTE DE DONNEES
+
+2022-11-24 18:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 18:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 503
+2022-11-24 18:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 87
+Nombre de documents ignorés: 4
+2022-11-24 18:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 87
+2022-11-24 18:47:00 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 19:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 19:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 486
+2022-11-24 19:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 83
+Nombre de documents ignorés: 5
+2022-11-24 19:00:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 83
+2022-11-24 19:03:15 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 19:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 19:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 454
+2022-11-24 19:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 86
+Nombre de documents ignorés: 6
+2022-11-24 19:15:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 83
+2022-11-24 19:17:27 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 19:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 19:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 434
+2022-11-24 19:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 87
+Nombre de documents ignorés: 4
+2022-11-24 19:30:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 85
+2022-11-24 19:32:33 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 19:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 19:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 413
+2022-11-24 19:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 87
+Nombre de documents ignorés: 10
+2022-11-24 19:45:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 87
+2022-11-24 19:47:02 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 20:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 20:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 403
+2022-11-24 20:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 94
+Nombre de documents ignorés: 9
+2022-11-24 20:00:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 94
+2022-11-24 20:03:06 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 20:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 20:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 396
+2022-11-24 20:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 104
+Nombre de documents ignorés: 8
+2022-11-24 20:15:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 103
+2022-11-24 20:17:19 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 20:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 20:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 396
+2022-11-24 20:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 108
+Nombre de documents ignorés: 8
+2022-11-24 20:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 106
+2022-11-24 20:32:49 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 20:45:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 20:45:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 365
+2022-11-24 20:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 116
+Nombre de documents ignorés: 10
+2022-11-24 20:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 113
+2022-11-24 20:48:16 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 21:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 21:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 350
+2022-11-24 21:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 112
+Nombre de documents ignorés: 9
+2022-11-24 21:00:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 112
+2022-11-24 21:03:26 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 21:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 21:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 458
+2022-11-24 21:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 106
+Nombre de documents ignorés: 8
+2022-11-24 21:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 106
+2022-11-24 21:18:04 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 21:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 21:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 448
+2022-11-24 21:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 99
+Nombre de documents ignorés: 10
+2022-11-24 21:30:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 98
+2022-11-24 21:32:22 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 21:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 21:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 413
+2022-11-24 21:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 92
+Nombre de documents ignorés: 11
+2022-11-24 21:45:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 92
+2022-11-24 21:47:01 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 22:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 22:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 345
+2022-11-24 22:00:02 - Process AirLabs - Flights
+Nombre de documents insérés: 78
+Nombre de documents ignorés: 10
+2022-11-24 22:00:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 78
+2022-11-24 22:02:25 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 22:15:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 22:15:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 387
+2022-11-24 22:15:02 - Process AirLabs - Flights
+Nombre de documents insérés: 65
+Nombre de documents ignorés: 10
+2022-11-24 22:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 64
+2022-11-24 22:16:29 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 22:30:01 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 22:30:01 - Process AirLabs - Schedules
+Nombre de documents insérés: 345
+2022-11-24 22:30:02 - Process AirLabs - Flights
+Nombre de documents insérés: 60
+Nombre de documents ignorés: 7
+2022-11-24 22:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 57
+2022-11-24 22:31:29 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 22:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 22:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 303
+2022-11-24 22:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 55
+Nombre de documents ignorés: 8
+2022-11-24 22:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 53
+2022-11-24 22:46:09 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 23:00:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 23:00:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 268
+2022-11-24 23:00:03 - Process AirLabs - Flights
+Nombre de documents insérés: 51
+Nombre de documents ignorés: 6
+2022-11-24 23:00:04 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 51
+2022-11-24 23:01:54 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 23:15:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 23:15:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 553
+2022-11-24 23:15:03 - Process AirLabs - Flights
+Nombre de documents insérés: 48
+Nombre de documents ignorés: 8
+2022-11-24 23:15:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 45
+2022-11-24 23:16:02 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 23:30:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 23:30:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 543
+2022-11-24 23:30:03 - Process AirLabs - Flights
+Nombre de documents insérés: 42
+Nombre de documents ignorés: 8
+2022-11-24 23:30:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 42
+2022-11-24 23:31:10 - FIN DE LA COLLECTE DES DONNEES
+
+2022-11-24 23:45:02 - DEMMARAGE DE LA COLLECTE DES DONNEES
+2022-11-24 23:45:02 - Process AirLabs - Schedules
+Nombre de documents insérés: 541
+2022-11-24 23:45:02 - Process AirLabs - Flights
+Nombre de documents insérés: 39
+Nombre de documents ignorés: 7
+2022-11-24 23:45:03 - Process OpenWeatherMap - weather
+Nombre de documents insérés: 37
+2022-11-24 23:45:49 - FIN DE LA COLLECTE DES DONNEES
+

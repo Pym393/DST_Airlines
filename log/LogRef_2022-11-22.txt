@@ -1,0 +1,25 @@
+2022-11-22 11:39:29 - DEMMARAGE DE LA RECUPERATION DES DONNEES DE REFERENCE
+2022-11-22 11:39:29 - Process AviationStack - airplanes
+2022-11-22 11:39:33 - ERREUR D'EXECUTION: command update requires authentication, full error: {'ok': 0.0, 'errmsg': 'command update requires authentication', 'code': 13, 'codeName': 'Unauthorized'}
+2022-11-22 11:39:33 - FIN ANORMALE DE LA RECUPERATION DES DONNEES DE REFERENCE
+
+2022-11-22 11:40:23 - DEMMARAGE DE LA RECUPERATION DES DONNEES DE REFERENCE
+2022-11-22 11:40:23 - Process AviationStack - countries
+2022-11-22 11:40:24 - ERREUR D'EXECUTION: command update requires authentication, full error: {'ok': 0.0, 'errmsg': 'command update requires authentication', 'code': 13, 'codeName': 'Unauthorized'}
+2022-11-22 11:40:24 - FIN ANORMALE DE LA RECUPERATION DES DONNEES DE REFERENCE
+
+2022-11-22 11:44:20 - DEMMARAGE DE LA RECUPERATION DES DONNEES DE REFERENCE
+2022-11-22 11:44:20 - Process AviationStack - countries
+Nombre de documents insérés: 252
+2022-11-22 11:44:21 - Process AviationStack - cities
+Nombre de documents insérés: 9368
+2022-11-22 11:44:23 - Process AviationStack - airlines
+Nombre de documents insérés: 1572
+2022-11-22 11:44:26 - Process AviationStack - airplanes
+Nombre de documents insérés: 19078
+2022-11-22 11:44:32 - Process AviationStack - airports
+Nombre de documents insérés: 6475
+2022-11-22 11:44:34 - Process AviationStack - aircraft_types
+Nombre de documents insérés: 310
+2022-11-22 11:44:34 - FIN DE LA RECUPERATION DES DONNEES DE REFERENCE
+

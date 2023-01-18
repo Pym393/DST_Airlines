@@ -1,0 +1,15 @@
+2022-12-22 06:56:53 - DEMMARAGE DE LA RECUPERATION DES DONNEES DE REFERENCE
+2022-12-22 06:56:53 - Process AviationStack - countries
+Nombre de documents insérés: 252
+2022-12-22 06:56:54 - Process AviationStack - cities
+Nombre de documents insérés: 9368
+2022-12-22 06:56:56 - Process AviationStack - airlines
+Nombre de documents insérés: 1572
+2022-12-22 06:56:58 - Process AviationStack - airplanes
+Nombre de documents insérés: 19078
+2022-12-22 06:57:04 - Process AviationStack - airports
+Nombre de documents insérés: 6477
+2022-12-22 06:57:06 - Process AviationStack - aircraft_types
+Nombre de documents insérés: 310
+2022-12-22 06:57:07 - FIN DE LA RECUPERATION DES DONNEES DE REFERENCE
+
